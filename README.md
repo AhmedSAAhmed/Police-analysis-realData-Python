@@ -9,3 +9,5 @@
 Question ( mapping + data-type casting )
 
 4) Question ( mapping + data-type casting ) - What is the mean stop_duration ?
+
+ 5) Question ( Groupby , Describe ) - Compare the age distributions for each violation.
