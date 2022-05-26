@@ -8,4 +8,4 @@
 3) Question ( Groupby ) - Does gender affect who gets searched during a stop ?
 Question ( mapping + data-type casting )
 
-
+4) Question ( mapping + data-type casting ) - What is the mean stop_duration ?
