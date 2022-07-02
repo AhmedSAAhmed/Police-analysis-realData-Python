@@ -26,5 +26,3 @@ Question ( mapping + data-type casting )
 * df.groupby('Column_1').Column_2.describe() - To create groups based on Column1 and show statistics summary based on Column2.
 
 
-
-
