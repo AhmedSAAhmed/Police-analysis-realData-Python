@@ -23,7 +23,4 @@ Question ( mapping + data-type casting )
 * df.groupby(‘Col_1’)[‘Col_2’] .sum( ) - To create groups - Two Keys – Apply on Col_2 grouped by Col_1.
 * df['Column_name'].map( { old1:new1 , old2:new2} ) – Change the all values of a column from old to new. We have to write for all values of column otherwise Nan will appear.
 * df['Column_name'].mean() - To show Mean value of a column.
-* df.groupby('Column_1').Column_2.describe() - To create groups based on Column1 and show statistics summary based on Column2.
-
-
-
+* df.groupby('Column_1').Column_2.describe() - To create groups based on Column1 and show statistics summary based on Column2
