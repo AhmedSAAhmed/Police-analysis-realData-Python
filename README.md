@@ -29,4 +29,3 @@ Question ( mapping + data-type casting )
 
 
 
-
